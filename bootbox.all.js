@@ -334,7 +334,7 @@
     // show backdrop or not. Default to static so user has to interact with dialog
     backdrop: 'static',
     // animate the modal in/out
-    animate: true,
+    animate: false,
     // additional class string applied to the top level dialog
     className: null,
     // whether or not to include a close button
